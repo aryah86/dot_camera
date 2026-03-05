@@ -1,0 +1,9 @@
+opencv-python
+numpy
+Pillow
+pygame
+
+# Raspberry Pi only (not needed for desktop simulation):
+# luma.oled
+# luma.core
+# gpiozero
